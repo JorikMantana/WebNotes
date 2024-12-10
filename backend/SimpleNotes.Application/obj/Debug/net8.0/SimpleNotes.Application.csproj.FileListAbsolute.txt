@@ -1,0 +1,15 @@
+C:\Users\bicks\RiderProjects\SimpleNotes\SimpleNotes.Application\bin\Debug\net8.0\SimpleNotes.Application.deps.json
+C:\Users\bicks\RiderProjects\SimpleNotes\SimpleNotes.Application\bin\Debug\net8.0\SimpleNotes.Application.dll
+C:\Users\bicks\RiderProjects\SimpleNotes\SimpleNotes.Application\bin\Debug\net8.0\SimpleNotes.Application.pdb
+C:\Users\bicks\RiderProjects\SimpleNotes\SimpleNotes.Application\bin\Debug\net8.0\SimpleNotes.Domain.dll
+C:\Users\bicks\RiderProjects\SimpleNotes\SimpleNotes.Application\bin\Debug\net8.0\SimpleNotes.Domain.pdb
+C:\Users\bicks\RiderProjects\SimpleNotes\SimpleNotes.Application\obj\Debug\net8.0\SimpleNotes.Application.csproj.AssemblyReference.cache
+C:\Users\bicks\RiderProjects\SimpleNotes\SimpleNotes.Application\obj\Debug\net8.0\SimpleNotes.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bicks\RiderProjects\SimpleNotes\SimpleNotes.Application\obj\Debug\net8.0\SimpleNotes.Application.AssemblyInfoInputs.cache
+C:\Users\bicks\RiderProjects\SimpleNotes\SimpleNotes.Application\obj\Debug\net8.0\SimpleNotes.Application.AssemblyInfo.cs
+C:\Users\bicks\RiderProjects\SimpleNotes\SimpleNotes.Application\obj\Debug\net8.0\SimpleNotes.Application.csproj.CoreCompileInputs.cache
+C:\Users\bicks\RiderProjects\SimpleNotes\SimpleNotes.Application\obj\Debug\net8.0\SimpleNo.B2ECBFEC.Up2Date
+C:\Users\bicks\RiderProjects\SimpleNotes\SimpleNotes.Application\obj\Debug\net8.0\SimpleNotes.Application.dll
+C:\Users\bicks\RiderProjects\SimpleNotes\SimpleNotes.Application\obj\Debug\net8.0\refint\SimpleNotes.Application.dll
+C:\Users\bicks\RiderProjects\SimpleNotes\SimpleNotes.Application\obj\Debug\net8.0\SimpleNotes.Application.pdb
+C:\Users\bicks\RiderProjects\SimpleNotes\SimpleNotes.Application\obj\Debug\net8.0\ref\SimpleNotes.Application.dll

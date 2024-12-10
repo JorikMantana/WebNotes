@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SimpleNotes.Application/1.0.0": {
+        "dependencies": {
+          "SimpleNotes.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SimpleNotes.Application.dll": {}
+        }
+      },
+      "SimpleNotes.Domain/1.0.0": {
+        "runtime": {
+          "SimpleNotes.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleNotes.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimpleNotes.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

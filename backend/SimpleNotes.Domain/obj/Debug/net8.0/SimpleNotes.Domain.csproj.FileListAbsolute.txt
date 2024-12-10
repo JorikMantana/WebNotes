@@ -9,3 +9,15 @@ C:\Users\bicks\RiderProjects\SimpleNotes\SimpleNotes.Domain\obj\Debug\net8.0\Sim
 C:\Users\bicks\RiderProjects\SimpleNotes\SimpleNotes.Domain\obj\Debug\net8.0\refint\SimpleNotes.Domain.dll
 C:\Users\bicks\RiderProjects\SimpleNotes\SimpleNotes.Domain\obj\Debug\net8.0\SimpleNotes.Domain.pdb
 C:\Users\bicks\RiderProjects\SimpleNotes\SimpleNotes.Domain\obj\Debug\net8.0\ref\SimpleNotes.Domain.dll
+C:\Users\Jorik Mantana\WebNotes\backend\SimpleNotes.Domain\bin\Debug\net8.0\SimpleNotes.Domain.deps.json
+C:\Users\Jorik Mantana\WebNotes\backend\SimpleNotes.Domain\bin\Debug\net8.0\SimpleNotes.Domain.dll
+C:\Users\Jorik Mantana\WebNotes\backend\SimpleNotes.Domain\bin\Debug\net8.0\SimpleNotes.Domain.pdb
+C:\Users\Jorik Mantana\WebNotes\backend\SimpleNotes.Domain\obj\Debug\net8.0\SimpleNotes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorik Mantana\WebNotes\backend\SimpleNotes.Domain\obj\Debug\net8.0\SimpleNotes.Domain.AssemblyInfoInputs.cache
+C:\Users\Jorik Mantana\WebNotes\backend\SimpleNotes.Domain\obj\Debug\net8.0\SimpleNotes.Domain.AssemblyInfo.cs
+C:\Users\Jorik Mantana\WebNotes\backend\SimpleNotes.Domain\obj\Debug\net8.0\SimpleNotes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jorik Mantana\WebNotes\backend\SimpleNotes.Domain\obj\Debug\net8.0\SimpleNotes.Domain.sourcelink.json
+C:\Users\Jorik Mantana\WebNotes\backend\SimpleNotes.Domain\obj\Debug\net8.0\SimpleNotes.Domain.dll
+C:\Users\Jorik Mantana\WebNotes\backend\SimpleNotes.Domain\obj\Debug\net8.0\refint\SimpleNotes.Domain.dll
+C:\Users\Jorik Mantana\WebNotes\backend\SimpleNotes.Domain\obj\Debug\net8.0\SimpleNotes.Domain.pdb
+C:\Users\Jorik Mantana\WebNotes\backend\SimpleNotes.Domain\obj\Debug\net8.0\ref\SimpleNotes.Domain.dll

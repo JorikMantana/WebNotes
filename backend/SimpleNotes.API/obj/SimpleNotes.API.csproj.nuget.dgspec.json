@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bicks\\RiderProjects\\SimpleNotes\\SimpleNotes.API\\SimpleNotes.API.csproj": {}
+    "C:\\Users\\Jorik Mantana\\WebNotes\\backend\\SimpleNotes.API\\SimpleNotes.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bicks\\RiderProjects\\SimpleNotes\\SimpleNotes.API\\SimpleNotes.API.csproj": {
+    "C:\\Users\\Jorik Mantana\\WebNotes\\backend\\SimpleNotes.API\\SimpleNotes.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bicks\\RiderProjects\\SimpleNotes\\SimpleNotes.API\\SimpleNotes.API.csproj",
+        "projectUniqueName": "C:\\Users\\Jorik Mantana\\WebNotes\\backend\\SimpleNotes.API\\SimpleNotes.API.csproj",
         "projectName": "SimpleNotes.API",
-        "projectPath": "C:\\Users\\bicks\\RiderProjects\\SimpleNotes\\SimpleNotes.API\\SimpleNotes.API.csproj",
-        "packagesPath": "C:\\Users\\bicks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bicks\\RiderProjects\\SimpleNotes\\SimpleNotes.API\\obj\\",
+        "projectPath": "C:\\Users\\Jorik Mantana\\WebNotes\\backend\\SimpleNotes.API\\SimpleNotes.API.csproj",
+        "packagesPath": "C:\\Users\\Jorik Mantana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jorik Mantana\\WebNotes\\backend\\SimpleNotes.API\\obj\\",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\bicks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jorik Mantana\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,14 +27,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\bicks\\RiderProjects\\SimpleNotes\\SimpleNotes.Infrastracture\\SimpleNotes.Infrastracture.csproj": {
-                "projectPath": "C:\\Users\\bicks\\RiderProjects\\SimpleNotes\\SimpleNotes.Infrastracture\\SimpleNotes.Infrastracture.csproj"
+              "C:\\Users\\Jorik Mantana\\WebNotes\\backend\\SimpleNotes.Infrastracture\\SimpleNotes.Infrastracture.csproj": {
+                "projectPath": "C:\\Users\\Jorik Mantana\\WebNotes\\backend\\SimpleNotes.Infrastracture\\SimpleNotes.Infrastracture.csproj"
               }
             }
           }
@@ -47,7 +48,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -80,24 +81,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[8.0.11, 8.0.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -106,25 +89,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\bicks\\RiderProjects\\SimpleNotes\\SimpleNotes.Application\\SimpleNotes.Application.csproj": {
+    "C:\\Users\\Jorik Mantana\\WebNotes\\backend\\SimpleNotes.Application\\SimpleNotes.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bicks\\RiderProjects\\SimpleNotes\\SimpleNotes.Application\\SimpleNotes.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Jorik Mantana\\WebNotes\\backend\\SimpleNotes.Application\\SimpleNotes.Application.csproj",
         "projectName": "SimpleNotes.Application",
-        "projectPath": "C:\\Users\\bicks\\RiderProjects\\SimpleNotes\\SimpleNotes.Application\\SimpleNotes.Application.csproj",
-        "packagesPath": "C:\\Users\\bicks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bicks\\RiderProjects\\SimpleNotes\\SimpleNotes.Application\\obj\\",
+        "projectPath": "C:\\Users\\Jorik Mantana\\WebNotes\\backend\\SimpleNotes.Application\\SimpleNotes.Application.csproj",
+        "packagesPath": "C:\\Users\\Jorik Mantana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jorik Mantana\\WebNotes\\backend\\SimpleNotes.Application\\obj\\",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\bicks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jorik Mantana\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -133,14 +116,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\bicks\\RiderProjects\\SimpleNotes\\SimpleNotes.Domain\\SimpleNotes.Domain.csproj": {
-                "projectPath": "C:\\Users\\bicks\\RiderProjects\\SimpleNotes\\SimpleNotes.Domain\\SimpleNotes.Domain.csproj"
+              "C:\\Users\\Jorik Mantana\\WebNotes\\backend\\SimpleNotes.Domain\\SimpleNotes.Domain.csproj": {
+                "projectPath": "C:\\Users\\Jorik Mantana\\WebNotes\\backend\\SimpleNotes.Domain\\SimpleNotes.Domain.csproj"
               }
             }
           }
@@ -153,7 +137,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -170,44 +154,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\bicks\\RiderProjects\\SimpleNotes\\SimpleNotes.Domain\\SimpleNotes.Domain.csproj": {
+    "C:\\Users\\Jorik Mantana\\WebNotes\\backend\\SimpleNotes.Domain\\SimpleNotes.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bicks\\RiderProjects\\SimpleNotes\\SimpleNotes.Domain\\SimpleNotes.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Jorik Mantana\\WebNotes\\backend\\SimpleNotes.Domain\\SimpleNotes.Domain.csproj",
         "projectName": "SimpleNotes.Domain",
-        "projectPath": "C:\\Users\\bicks\\RiderProjects\\SimpleNotes\\SimpleNotes.Domain\\SimpleNotes.Domain.csproj",
-        "packagesPath": "C:\\Users\\bicks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bicks\\RiderProjects\\SimpleNotes\\SimpleNotes.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Jorik Mantana\\WebNotes\\backend\\SimpleNotes.Domain\\SimpleNotes.Domain.csproj",
+        "packagesPath": "C:\\Users\\Jorik Mantana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jorik Mantana\\WebNotes\\backend\\SimpleNotes.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\bicks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jorik Mantana\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -216,6 +186,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -232,7 +203,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -249,44 +220,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\bicks\\RiderProjects\\SimpleNotes\\SimpleNotes.Infrastracture\\SimpleNotes.Infrastracture.csproj": {
+    "C:\\Users\\Jorik Mantana\\WebNotes\\backend\\SimpleNotes.Infrastracture\\SimpleNotes.Infrastracture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bicks\\RiderProjects\\SimpleNotes\\SimpleNotes.Infrastracture\\SimpleNotes.Infrastracture.csproj",
+        "projectUniqueName": "C:\\Users\\Jorik Mantana\\WebNotes\\backend\\SimpleNotes.Infrastracture\\SimpleNotes.Infrastracture.csproj",
         "projectName": "SimpleNotes.Infrastracture",
-        "projectPath": "C:\\Users\\bicks\\RiderProjects\\SimpleNotes\\SimpleNotes.Infrastracture\\SimpleNotes.Infrastracture.csproj",
-        "packagesPath": "C:\\Users\\bicks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bicks\\RiderProjects\\SimpleNotes\\SimpleNotes.Infrastracture\\obj\\",
+        "projectPath": "C:\\Users\\Jorik Mantana\\WebNotes\\backend\\SimpleNotes.Infrastracture\\SimpleNotes.Infrastracture.csproj",
+        "packagesPath": "C:\\Users\\Jorik Mantana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jorik Mantana\\WebNotes\\backend\\SimpleNotes.Infrastracture\\obj\\",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\bicks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jorik Mantana\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -295,14 +252,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\bicks\\RiderProjects\\SimpleNotes\\SimpleNotes.Application\\SimpleNotes.Application.csproj": {
-                "projectPath": "C:\\Users\\bicks\\RiderProjects\\SimpleNotes\\SimpleNotes.Application\\SimpleNotes.Application.csproj"
+              "C:\\Users\\Jorik Mantana\\WebNotes\\backend\\SimpleNotes.Application\\SimpleNotes.Application.csproj": {
+                "projectPath": "C:\\Users\\Jorik Mantana\\WebNotes\\backend\\SimpleNotes.Application\\SimpleNotes.Application.csproj"
               }
             }
           }
@@ -315,7 +273,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -354,26 +312,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

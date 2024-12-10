@@ -1,17 +1,15 @@
 import { Box, Button, Card, CardDescription, Heading } from "@chakra-ui/react";
 
 
-export default function Note() {
+export default function Note({title, content}) {
     return (
         <Box mx={500} my={10}>
             <Card.Root>
                 <Card.Header>
-                    <Heading>Название</Heading>
+                    <Heading>{title}</Heading>
                 </Card.Header>
                 <Card.Body>
-                    <Heading>This is the card body. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit. Curabitur nec odio vel dui euismod fermentum.
-            Curabitur nec odio vel dui euismod fermentum.</Heading>
+                    <Heading>{content}</Heading>
                 </Card.Body>
                 <Card.Footer>
                     <Button colorPalette={"red"}>Удалить</Button>

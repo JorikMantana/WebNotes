@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TtIy8TI4Ipk=",
+  "dgSpecHash": "+6+aVQ9cz7s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\bicks\\RiderProjects\\SimpleNotes\\SimpleNotes.Domain\\SimpleNotes.Domain.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\bicks\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
-    "C:\\Users\\bicks\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
-    "C:\\Users\\bicks\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Jorik Mantana\\WebNotes\\backend\\SimpleNotes.Domain\\SimpleNotes.Domain.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "iVEoHWYYnsI4fvwmf+YLCqAS+hWEkiaekVmhIqrM9kg=",
+  "Hash": "Pd4wzYeP8qj3pQojZ6wkr30hLjZVOqr2HtFTGjp/q0U=",
   "Source": "SimpleNotes.API",
   "BasePath": "_content/SimpleNotes.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }

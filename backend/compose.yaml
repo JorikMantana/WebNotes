@@ -1,0 +1,6 @@
+﻿services:
+  simplenotes.api:
+    image: simplenotes.api
+    build:
+      context: .
+      dockerfile: SimpleNotes.API/Dockerfile
